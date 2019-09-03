@@ -10,12 +10,8 @@ image: /img/ubmemhzixhfx-official-1558437520993.jpg
 ---
 ## Why Lake Jevin is nothing compared to Not Hot Dog.
 
-
-
-So this is the longer section where you can type more shit about how this dude is not a hot dog. He's pretty cool in my book for taking it so well. Other lesser people **_like Lake Jevin_** are weaker and therefore get all butt hurt when you call them names like **Sissy man Jevin** and **Little Man Jevin**. Man that Lake Jevin guy is just awful, we should totally fire him.
+So this is the longer section where you can type more shit about how this dude is not a hot dog. He's pretty cool in my book for taking it so well. Other lesser people _**like Lake Jevin**_ are weaker and therefore get all butt hurt when you call them names like **Sissy man Jevin** and **Little Man Jevin**. Man that Lake Jevin guy is just awful, we should totally fire him.
 
 > This is a quote from Lake Jevin... "I am so weak"
 
-```
 <span style="color: blue;">Blue text in source code.</span>
-```
